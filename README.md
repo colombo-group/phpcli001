@@ -1,0 +1,21 @@
+# phpcli001
+Bài tập về làm việc với PHP tạo chương trình tương tác qua command line hoặc chạy như service
+
+# Mục tiêu
+- Cách sử dụng composer tạo app PHP, bước đầu tìm hiểu phát triển package như thế nào
+- Sử dụng [CLIMATE](http://climate.thephpleague.com/)
+
+# Đề bài
+- Sử dụng CLIMATE tạo 1 chương trình PHP cho phép nhập vào 1 số và in ra 1 tam giác, mỗi hàng có 1 màu random khác nhau
+```
+Digic Triangle PHP Program
+Input one integer [5]:_
+```
+- Ví dụ nhập vào 5 thì in ra
+
+```
+1
+1 2
+1 2 3
+1 2 3 4 5
+```
